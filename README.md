@@ -4,7 +4,7 @@
  ## Contributors
  
  * Mino Peric
- * Erika Hosino
+ * Erika Hoshino
  * Yao Ding
  * Srivasthan Krishna
  
